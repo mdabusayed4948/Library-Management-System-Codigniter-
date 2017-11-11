@@ -1,0 +1,150 @@
+@charset "utf-8";
+
+  
+ #navbar{ background:#ABABAB; min-height: 65px }
+ #navbar li a{ color:#000; font-weight:bold}
+  .body{ min-height:580px; }
+ 	body{ background-color:#BAC8C9;}
+	.row {margin-top: 40px;
+  margin-left: 2px;
+  margin-right: 0;
+}
+	.panel{ min-height:400px}
+	#site_info {
+  background: #ababab none repeat scroll 0 0;
+  border-top: 1px solid #1d3b53;
+  color: #000;
+  padding-left: 20px;
+  margin-bottom:0;
+  min-width: 600px;
+}
+#site_info p {
+  line-height: 50px;
+  margin-bottom: 0;
+  
+}
+
+.style{background-color: #adadad;
+    border: 2px solid gray;
+    border-radius: 15px;
+    box-shadow: 0 0 1px 2px lightgray;
+    color: #fff;
+    font-family: Verdana,Geneva,sans-serif,Siyamrupali;
+    font-size: 20px;
+    font-weight: bold;
+    height: 15px;
+    line-height: 25px;
+    margin-right: 5px;
+    padding: 2px 5px;
+    text-align: center;
+    width: 15px;
+    
+ 
+}
+
+.box.first {
+  min-height: 680px;
+  min-width:570px;
+  -webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.71);
+ -moz-linear-gradient(center bottom , #a3a8af, #cfd2d7) repeat scroll 0 0;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+.box.round {
+  border-radius: 5px 5px 0 0;
+}
+.box.grid {
+  padding-bottom: 40px;
+}
+.box {
+  background: #fff none repeat scroll 0 0;
+  margin-bottom: 20px;
+  margin-left: -8px;
+  padding: 10px;
+}
+.box h2 {
+  background: #e3e3e3 none repeat scroll 0 0;
+  border-bottom: 1px solid #506873;
+  border-radius: 5px 5px 0 0;
+  color: #1b548d;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: -10px -10px 0;
+  padding: 10px 12px;
+  
+}
+.block {
+  padding-bottom: 1px;
+ 
+}
+.block {
+  padding-top: 20px;
+}
+table.form {
+  width: 100%;
+}
+table.form label {
+  font-weight: bold;
+}
+table.form td {
+  padding: 4px 0;
+}
+table.form input, table.form select {
+  border-color: #b3b3b3 #eaeaea #eaeaea #b3b3b3;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 15px;
+  padding: 4px 4px 5px;
+}
+input.medium {
+  width: 55%;
+}
+img {
+  border: 0 none;
+  height: 50px;
+}
+  #leftCol{ min-height:700px; min-width: 200px; margin:0px; padding:0px; background-color:#CCC;
+  -webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.71);
+ -moz-linear-gradient(center bottom , #a3a8af, #cfd2d7) repeat scroll 0 0;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);}
+  /* CSS used here will be applied after bootstrap.css */
+li ul.collapse {
+  visibility: visible;
+}
+
+	.panel{ padding:5px}
+.dashboard{ background-color:#F0F0F0; width:290px; height:120px; padding:20px; font-weight:bold; font-size:20px;margin:18px}
+
+.tbl{  -webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.71);
+ -moz-linear-gradient(center bottom , #a3a8af, #cfd2d7) repeat scroll 0 0;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);}
+.styl{background-color:#A9AEB4; margin-top:0px; padding:13px; min-height:15px; margin-bottom: 30px;}
+.boxshadow{-webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.71);
+ -moz-linear-gradient(center bottom , #a3a8af, #cfd2d7) repeat scroll 0 0;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+ color: #000000;}
+
+style{background-color: #adadad;
+    border: 2px solid gray;
+    border-radius: 15px;
+    box-shadow: 0 0 1px 2px lightgray;
+
+    font-weight: bold;
+    min-height: 15px;
+    min-line-height: 25px;
+    margin-right: 5px;
+    padding: 2px 5px;
+    text-align: center;
+    width: 15px;
+   
+}
+
+
+.sttbl{min-height:277px; margin:3px; text-align: center}
+.col-md-2 {
+  height: 800px;
+
+}
